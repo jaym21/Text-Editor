@@ -1,2 +1,2 @@
 # Text-Editor
-A simple text editor using Java.
+A simple text editor implemented using Java.
